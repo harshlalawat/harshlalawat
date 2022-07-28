@@ -68,5 +68,7 @@ a{
     background-color: white;
     color: black;
     float: right;
-    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
